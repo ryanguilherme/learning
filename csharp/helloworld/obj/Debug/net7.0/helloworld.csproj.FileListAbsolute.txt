@@ -1,0 +1,15 @@
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\bin\Debug\net7.0\helloworld.exe
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\bin\Debug\net7.0\helloworld.deps.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\bin\Debug\net7.0\helloworld.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\bin\Debug\net7.0\helloworld.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.csproj.AssemblyReference.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\helloworld\obj\Debug\net7.0\ref\helloworld.dll
