@@ -1,0 +1,15 @@
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\bin\Debug\net7.0\input.exe
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\bin\Debug\net7.0\input.deps.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\bin\Debug\net7.0\input.runtimeconfig.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\bin\Debug\net7.0\input.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\bin\Debug\net7.0\input.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.csproj.AssemblyReference.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.AssemblyInfoInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.AssemblyInfo.cs
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.csproj.CoreCompileInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\refint\input.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\input.genruntimeconfig.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\input\obj\Debug\net7.0\ref\input.dll
