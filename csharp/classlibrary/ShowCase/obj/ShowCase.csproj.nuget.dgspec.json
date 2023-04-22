@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\ShowCase\\ShowCase.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\ShowCase\\ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\ShowCase\\ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\ShowCase\\ShowCase.csproj",
+        "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\ShowCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leroy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\StringLibrary.csproj",
+        "packagesPath": "C:\\Users\\leroy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leroy\\OneDrive\\Documentos\\code\\learning\\csharp\\classlibrary\\StringLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leroy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
