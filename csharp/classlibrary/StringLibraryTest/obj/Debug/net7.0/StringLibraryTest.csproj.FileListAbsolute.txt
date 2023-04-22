@@ -1,0 +1,6 @@
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\obj\Debug\net7.0\StringLibraryTest.csproj.AssemblyReference.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\obj\Debug\net7.0\StringLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\obj\Debug\net7.0\StringLibraryTest.AssemblyInfoInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\obj\Debug\net7.0\StringLibraryTest.AssemblyInfo.cs
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\classlibrary\StringLibraryTest\obj\Debug\net7.0\StringLibraryTest.csproj.CoreCompileInputs.cache
