@@ -1,0 +1,15 @@
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\bin\Debug\net7.0\giraffe.exe
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\bin\Debug\net7.0\giraffe.deps.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\bin\Debug\net7.0\giraffe.runtimeconfig.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\bin\Debug\net7.0\giraffe.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\bin\Debug\net7.0\giraffe.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.csproj.AssemblyReference.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.AssemblyInfoInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.AssemblyInfo.cs
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.csproj.CoreCompileInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\refint\giraffe.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\giraffe.genruntimeconfig.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\giraffe\giraffe\obj\Debug\net7.0\ref\giraffe.dll
