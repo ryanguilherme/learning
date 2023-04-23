@@ -1,0 +1,15 @@
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\bin\Debug\net7.0\recursion.exe
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\bin\Debug\net7.0\recursion.deps.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\bin\Debug\net7.0\recursion.runtimeconfig.json
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\bin\Debug\net7.0\recursion.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\bin\Debug\net7.0\recursion.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.csproj.AssemblyReference.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.AssemblyInfoInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.AssemblyInfo.cs
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\refint\recursion.dll
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.pdb
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\recursion.genruntimeconfig.cache
+C:\Users\leroy\OneDrive\Documentos\code\learning\csharp\recursion\recursion\obj\Debug\net7.0\ref\recursion.dll
