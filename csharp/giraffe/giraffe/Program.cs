@@ -11,6 +11,8 @@
             }
             string tome = "teste formatacoes disponiveis";
             Console.WriteLine(tome.First() + tome.ToUpper() + tome.ToLower());
+            Console.WriteLine(tome.Contains("teste"));
+            Console.WriteLine(tome.First() + tome.Last());
         }
     }
 }
